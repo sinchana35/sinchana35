@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sinchana35
 - 👀 I’m interested in travelling
-- 🌱 I’m currently learning BE
+- 🌱 I’m currently pursuing BE
 
 <!---
 sinchana35/sinchana35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
